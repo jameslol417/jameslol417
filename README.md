@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jameslol417
-- 👀 I’m interested in ... Blockchain Integrations & VR Applications
-- 🌱 I’m currently learning ... Python, Django, HTML, CSS
+- 👀 I’m interested in ... Machine Learning & Blockchain Applications
+- 🌱 I’m currently learning ... Java, Rust, Python
 - 💞️ I’m looking to collaborate on ... open source projects
 - 📫 How to reach me ... jameslol4177@gmail.com
